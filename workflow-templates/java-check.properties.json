@@ -1,0 +1,12 @@
+{
+    "name": "PSU SWE Java Check",
+    "description": "Java Check",
+    "iconName": "example-icon",
+    "categories": [
+        "Java",
+	"Maven"
+    ],
+    "filePatterns": [
+        "pom.xml"
+    ]
+}

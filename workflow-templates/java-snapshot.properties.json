@@ -1,0 +1,12 @@
+{
+    "name": "PSU SWE Java Snapshot",
+    "description": "Java Snapshot",
+    "iconName": "example-icon",
+    "categories": [
+        "Java",
+	"Maven"
+    ],
+    "filePatterns": [
+        "pom.xml"
+    ]
+}

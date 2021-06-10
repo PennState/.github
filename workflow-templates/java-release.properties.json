@@ -1,0 +1,12 @@
+{
+    "name": "PSU SWE Java Release",
+    "description": "Java Release",
+    "iconName": "example-icon",
+    "categories": [
+        "Java",
+	"Maven"
+    ],
+    "filePatterns": [
+        "pom.xml"
+    ]
+}
